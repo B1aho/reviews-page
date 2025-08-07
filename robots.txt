@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Указываем, где лежит ваш sitemap
-Sitemap: https://b1aho.github.io/sitemap.xml
+Sitemap: https://b1aho.github.io/reviews-page/sitemap.xml
