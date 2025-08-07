@@ -1,13 +1,9 @@
-<!-- sitemap.xml -->
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- Страница с отзывами -->
   <url>
     <loc>https://b1aho.github.io/reviews-page/</loc>
     <lastmod>2025-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-
 </urlset>
